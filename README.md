@@ -1,39 +1,22 @@
-# 校友数据库平台开发笔记
+ -  [校友数据平台开发笔记一：背景与技术方案的选型](https://www.cnblogs.com/cclinux1/p/14130261.html)
+ -  [校友数据平台开发笔记二：功能需求设计](https://www.cnblogs.com/cclinux1/p/14140994.html)
+ -  [校友数据平台开发笔记三：数据库设计](https://www.cnblogs.com/cclinux1/p/14142657.html)
+ -  [校友数据平台开发笔记四：UI基本元素设计](https://www.cnblogs.com/cclinux1/p/14145437.html)
+ -  [校友数据平台开发笔记五：找校友功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14237918.html)
+ -  [校友数据平台开发笔记六：校友活动聚会功能模块设计与实现(https://www.cnblogs.com/cclinux1/p/14238122.html)
+ -  [校友数据平台开发笔记七：校友互助功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14238204.html)
+ -  [校友数据平台开发笔记八：校友相册功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14238270.html)
+ -  [校友数据平台开发笔记九： 校友群助手功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14246266.html)
+ -  [校友数据平台开发笔记十： 校友资讯功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14246630.html)
+ -  [校友数据平台开发笔记十一： 后台管理系统功能设计与实现](https://www.cnblogs.com/cclinux1/p/14246730.html)
+ -  [校友数据平台开发笔记十二： 小程序异常监控及错误处理](https://www.cnblogs.com/cclinux1/p/14247491.html)
+ -  [校友数据平台开发笔记十三： 小程序前端缓存体系的设计与实现](https://www.cnblogs.com/cclinux1/p/14247633.html)
+ -  [校友数据平台开发笔记十四： 小程序云开发后端数据校验体系的设计与实现](https://www.cnblogs.com/cclinux1/p/14247727.html)
+ -  [校友数据平台开发笔记十五： 小程序前端数据校验体系的设计与实现](https://www.cnblogs.com/cclinux1/p/14247955.html)
+ -  [校友数据平台开发笔记十六：注册与登录模块Passport设计与实现](https://www.cnblogs.com/cclinux1/p/14249720.html)
+ -  [校友数据平台开发笔记十七：为母校与邀请加入模块的设计与实现](https://www.cnblogs.com/cclinux1/p/14363805.html)
+ -  [校友数据平台开发笔记十八：为浏览记录（我的足迹）模块的设计与实现](https://www.cnblogs.com/cclinux1/p/14363882.html)
+ -  [校友数据平台开发笔记十九：隐私设置模块的设计与实现](https://www.cnblogs.com/cclinux1/p/14363932.html)
+ -  [校友数据平台开发笔记二十：校友名片夹模块的设计与实现](https://www.cnblogs.com/cclinux1/p/14363973.html)
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1114/072418_a6455134_10022184.jpeg "CC校友录平台公众号-qr.jpg")
