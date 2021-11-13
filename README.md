@@ -3,7 +3,7 @@
  -  [校友数据平台开发笔记三：数据库设计](https://www.cnblogs.com/cclinux1/p/14142657.html)
  -  [校友数据平台开发笔记四：UI基本元素设计](https://www.cnblogs.com/cclinux1/p/14145437.html)
  -  [校友数据平台开发笔记五：找校友功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14237918.html)
- -  [校友数据平台开发笔记六：校友活动聚会功能模块设计与实现(https://www.cnblogs.com/cclinux1/p/14238122.html)
+ -  [校友数据平台开发笔记六：校友活动聚会功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14238122.html)
  -  [校友数据平台开发笔记七：校友互助功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14238204.html)
  -  [校友数据平台开发笔记八：校友相册功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14238270.html)
  -  [校友数据平台开发笔记九： 校友群助手功能模块设计与实现](https://www.cnblogs.com/cclinux1/p/14246266.html)
